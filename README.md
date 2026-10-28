@@ -1,19 +1,48 @@
 # Hi, I'm Alaa Eddine 👋
 
-Computer science student at the Higher School of Computer Science in Sidi Bel Abbès, Algeria.
-I build web and mobile apps, and I'm working towards becoming an AI engineer.
+Computer science student at ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès, Algeria).
+I build web and mobile applications, and I'm working towards becoming an AI engineer.
+
+## 🚀 Featured Projects
+
+### [Presencia] — Attendance Management System
+`Next.js` `Django` `Flutter`
+
+An attendance management platform designed around real institutional workflows.
+
+- QR-based and manual attendance tracking
+- Real-time attendance monitoring
+- Absence justification workflows
+- Role-based access control and administrative reporting
+
+### [Khdamli] — Home Services Mobile Application
+`React Native` `TypeScript` `Expo` `NativeWind`
+
+A mobile platform connecting customers with skilled service providers in Algeria.
+
+- Service listings and provider discovery
+- Job requests and user workflows
+- Developed as part of a six-member ESI-SBA student team
 
 ## 🛠 Skills
 
-- **Languages:** Python, JavaScript
-- **Frameworks:** React, Node.js, Next.js
-- **Tools:** Git, GitHub, VS Code, Figma, Docker
-- **Interests:** Web development, Data, AI, Machine Learning
+**Programming Languages**
+JavaScript · TypeScript · Python · Java · SQL
 
-## 🚀 Featured projects
+**Frontend Development**
+React · Next.js · React Native · Expo · Tailwind CSS · NativeWind · HTML5 · CSS3
 
-- [**Khdamli**](LINK-TO-REPO): a mobile app for [what it does, e.g. finding jobs and services]
-- [**Precensia**](LINK-TO-REPO): a web app for managing student attendance and absences
+**Backend Development**
+Node.js · Express.js · RESTful APIs · Laravel/PHP (Familiar)
+
+**Databases & Cloud**
+PostgreSQL · MySQL · MongoDB · SQLite · Prisma · Supabase · Neon · Redis
+
+**AI & Data Science**
+Machine Learning · Natural Language Processing · LLMs · LangChain · Data Analysis · Kaggle
+
+**Tools & Engineering Practices**
+Git · GitHub · Jira · ClickUp · Figma · Linux · API Integration · Testing · Debugging · Agile Scrum · Specification-Driven Development · AI-Assisted Development
 
 ## 🌱 Currently
 
@@ -28,5 +57,5 @@ I build web and mobile apps, and I'm working towards becoming an AI engineer.
 ## 📫 Contact
 
 - LinkedIn: [Alaa Eddine Mohammed Seghir](https://www.linkedin.com/in/alaa-eddine-mohammed-seghir-830075318)
-- Portfolio: https://alaa-portfolio-tau.vercel.app/
+- Portfolio: [https://alaa-portfolio-tau.vercel.app/](https://alaa-portfolio-tau.vercel.app/)
 - Email: alaamohammedseghir@gmail.com
